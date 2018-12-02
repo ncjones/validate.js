@@ -2,7 +2,7 @@ validate.js
 ===
 Validate.js provides a declarative way of validating javascript objects.
 
-For documentation please see [validatejs.org/](http://validatejs.org/).
+For documentation please see [validatejs.org](https://validatejs.org/).
 
 For issues and feature requests visit the [issue tracker](https://github.com/ansman/validate.js/issues).
 
@@ -10,7 +10,7 @@ Building validate.js
 ---
 ### Requirements
   * [node.js](https://nodejs.org/) - Will probably work with most versions
-  * [grunt-cli](http://gruntjs.com/using-the-cli)
+  * [grunt-cli](https://gruntjs.com/using-the-cli)
 
 ### Build steps
   1. `git clone git@github.com:ansman/validate.js.git`
